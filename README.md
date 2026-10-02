@@ -1,5 +1,5 @@
 <div align="center">
   <br />
-  <h3><big><big>Fortune favors the bold</big></big></h3>
+  <h3><big><big>PAY TO WIN</big></big></h3>
   <br />
 </div>
